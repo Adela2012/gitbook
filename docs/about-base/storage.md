@@ -34,7 +34,8 @@ try {
   wx.setStorageSync('key', 'value')
 } catch (e) { }
 ```
-
+<br>
+<br>
 
 ### 读取缓存
 
@@ -70,6 +71,8 @@ try {
   // Do something when catch error
 }
 ```
+<br>
+<br>
 
 ### 清理缓存
 
@@ -96,6 +99,9 @@ try {
   // Do something when catch error
 }
 ```
+
+<br>
+<br>
 
 ### 移除缓存
 
